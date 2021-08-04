@@ -1,0 +1,23 @@
+{
+  "name": "javatut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "underscore": "^1.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DominicBlankenfeldt/JavaTut.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DominicBlankenfeldt/JavaTut/issues"
+  },
+  "homepage": "https://github.com/DominicBlankenfeldt/JavaTut#readme"
+}
